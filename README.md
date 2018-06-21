@@ -2,7 +2,11 @@
 Personal website
 
 # Testing dev: 
-jekyll serve
+- edit files in _includes
+- jekyll serve
+
+# Build updated version:
+- jekyll build
 
 # Deploy updated version:
 - Open Filezilla
